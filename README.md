@@ -1,4 +1,8 @@
 # my-first-repo
-My first GitHub repository
-Hello World! This is my first GitHub repo - Kabiru learning Git!ode
-i love coding
+My first GitHub repository.
+
+
+Hello World! This is my first GitHub repo - Kabiru learning Git! code.
+
+
+I love coding.

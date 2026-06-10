@@ -5,3 +5,6 @@ Studied Computer Science.
 
 
 Also a Graphic Designer - This is my second branch
+
+
+I am currently learning javascript
